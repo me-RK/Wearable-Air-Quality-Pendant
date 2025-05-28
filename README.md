@@ -1,5 +1,5 @@
 # Wearable-Air-Quality-Pendant
-![Main Image]()
+![Main Image](https://github.com/me-RK/Wearable-Air-Quality-Pendant/blob/main/Images/Title%20Image.png)
 
 ---
 

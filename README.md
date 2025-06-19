@@ -3,7 +3,7 @@ Wearable Air Quality Pendant 🌬️
 
 A compact, battery-powered wearable device that continuously monitors air quality using TVOC detection. Get real-time feedback about your breathing environment through intuitive LED indicators and audio alerts.
 
-![Wearable Air Quality Pendant](https://claude.ai/chat/images/main-project-image.jpg)
+![Wearable Air Quality Pendant](https://circuitdigest.com/sites/default/files/projectimage_mic/Wearable-Air-Quality-Pendant.png)
 
 Project Overview
 -------------------
